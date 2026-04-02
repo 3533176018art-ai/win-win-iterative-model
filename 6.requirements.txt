@@ -1,0 +1,2 @@
+# No additional dependencies, pure Python native
+python>=3.8
