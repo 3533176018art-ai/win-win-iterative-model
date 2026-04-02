@@ -1,3 +1,4 @@
+"""
 Win-Win Iterative Model (WWIM) - Iteration Engine
 Lightweight iterative framework core engine
 For academic exchange and prototype validation
